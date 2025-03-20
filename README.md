@@ -115,7 +115,6 @@ We extracted key discussion topics using:
 | 2 | just, 10, don, people, worth, sydney, kyle, melbourne, listen, radio |
 | 3 | melburnians, high, course, triple, ridiculous, victorians, talent, little, big, stand |
 
-![Topic Modeling](visuals/topic_modeling.png)
 
 ### Insights:
 - The most common words reflect **strong opinions about radio hosts**.
